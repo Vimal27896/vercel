@@ -7,9 +7,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Landslide Shield - AI-Powered Landslide Prediction",
+  title: "Landslide Shield · Terrain intelligence",
   description:
-    "Advanced landslide prediction system using AI to analyze terrain and environmental data for early warning and risk assessment.",
+    "See landslide risk before it moves with live terrain intelligence, explainable AI, and early warnings.",
   generator: "v0.app",
 }
 
